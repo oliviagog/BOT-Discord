@@ -41,24 +41,14 @@ Pour plus d'informations sur les commandes, rendez-vous sur mon rapport de proje
 - [Visual Studio](https://code.visualstudio.com/)</br>
 
 ## <a name="resultat"> Résulat de mon BOT Discord
-<<<<<<< HEAD
 
 ![alt text](https://github.com/oliviagog/BOT-Discord/blob/main/image/ping.PNG)
 ![alt text](https://github.com/oliviagog/BOT-Discord/blob/main/image/pileouface.PNG)
 ![alt text](https://github.com/oliviagog/BOT-Discord/blob/main/image/aleatoire.PNG)
 ![alt text](https://github.com/oliviagog/BOT-Discord/blob/main/image/messageautomatic.PNG)
 ![alt text](https://github.com/oliviagog/BOT-Discord/blob/main/image/calcul.PNG)
-![alt text]()
+![alt text](https://github.com/oliviagog/BOT-Discord/blob/main/image/help.PNG)
 
-=======
-  
-   ![alt text](https://github.com/oliviagog/BOT-Discord/blob/main/image/ping.PNG) </br>
-   ![alt text](https://github.com/oliviagog/BOT-Discord/blob/main/image/pileouface.PNG)</br>
-   ![alt text](https://github.com/oliviagog/BOT-Discord/blob/main/image/aleatoire.PNG)</br>
-   ![alt text](https://github.com/oliviagog/BOT-Discord/blob/main/image/messageautomatic.PNG)</br>
-   ![alt text](https://github.com/oliviagog/BOT-Discord/blob/main/image/calcul.PNG)</br>
-   ![alt text](https://github.com/oliviagog/BOT-Discord/blob/main/image/help.PNG)
->>>>>>> 96788031e0245c035bd87662e326a1edb0ce130b
 ### <a name="installation"> Installation
 
 ```bash
