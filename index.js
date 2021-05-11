@@ -6,7 +6,7 @@ const {pileouface} = require('./commandes/pileouface');
 const { aleatoire } = require('./commandes/aleatoire');
 const{calcul} = require('./commandes/calcul');
 const{help} = require('./commandes/help');
-const {meteo} = require('./commandes/meteo');
+
 
 
 //Prefix a mettre avant une commande
@@ -64,10 +64,7 @@ client.on('message', message => {
             help(message); 
         }
 
-        //Si l utilisateur utilise la commande help
-        if(command == "dog"){
-            request.get{'http://thecatapi.com/api/images/get?format=src&type=gif'}; 
-        }
+        
 
         
    

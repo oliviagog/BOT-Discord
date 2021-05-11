@@ -16,8 +16,9 @@ Création d'un BOT sur Discord.
 # <a name="profil"> Profil
 
 - "GOGUILLON Olivia"
+  Réalisation de ce projet lors de ma Licence Professionnelle.
 
-## <a name="features"> Caractéristiques de l'application
+## <a name="features"> Présentation du projet
 
 - 👑 **Informatif**: `userinfo`,`help`,`ping`,`poll`,`poll2`,`serverinfo`, `botinfo`
 - 👻 **Jeux**: `chifoumi`,`pile`,`face`
