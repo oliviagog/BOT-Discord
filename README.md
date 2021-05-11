@@ -5,7 +5,7 @@ Création d'un BOT sur Discord.
 # Table des matières
 
 - [Profil](#profil)
-- [Caractéristiques de l'application](#features)
+- [Présentation du projet](#projet)
 - [Outils requis](#tools)
 - [Avant de commencer](#gettingStarted)
 - [Installation ](#installation)
@@ -18,11 +18,19 @@ Création d'un BOT sur Discord.
 - "GOGUILLON Olivia"
   Réalisation de ce projet lors de ma Licence Professionnelle.
 
-## <a name="features"> Présentation du projet
+## <a name="projet"> Présentation du projet
 
-- 👑 **Informatif**: `userinfo`,`help`,`ping`,`poll`,`poll2`,`serverinfo`, `botinfo`
-- 👻 **Jeux**: `chifoumi`,`pile`,`face`
-- Welcom message when people join the server and when id server was declared
+L'objectif du projet est de se connecter à une API et executer des requêtes.
+J'ai choisi l'API Discord pour réaliser un BOT.
+
+Ce BOT a plusieurs fonctionnalités, plusieurs commandes.
+**-1️⃣**: `ping`,
+**-2️⃣**: `help`,
+**-3️⃣**: `aleatoire`,
+**-4️⃣**: `pileouface`,
+**-5️⃣**: `calcul`,
+
+Pour utiliser ces commandes, il faut utiliser le prefix `!`
 
 ## <a name="tools"> Outils requis
 
