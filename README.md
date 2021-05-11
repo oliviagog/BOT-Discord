@@ -20,17 +20,17 @@ Création d'un BOT sur Discord.
 
 ## <a name="projet"> Présentation du projet
 
-L'objectif du projet est de se connecter à une API et executer des requêtes.
-J'ai choisi l'API Discord pour réaliser un BOT.
+L'objectif du projet est de se connecter à une API et executer des requêtes.</br>
+J'ai choisi l'API Discord pour réaliser un BOT.</br></br>
 
-Ce BOT a plusieurs fonctionnalités, plusieurs commandes.
-**-1️⃣**: `ping`,
-**-2️⃣**: `help`,
-**-3️⃣**: `aleatoire`,
-**-4️⃣**: `pileouface`,
-**-5️⃣**: `calcul`,
+Ce BOT a plusieurs fonctionnalités, plusieurs commandes.</br>
+**-1️⃣**: `ping`,</br>
+**-2️⃣**: `help`,</br>
+**-3️⃣**: `aleatoire`,</br>
+**-4️⃣**: `pileouface`,</br>
+**-5️⃣**: `calcul`,</br>
 
-Pour utiliser ces commandes, il faut utiliser le prefix `!`
+Pour utiliser ces commandes, il faut utiliser le prefix `!`</br>
 
 ## <a name="tools"> Outils requis
 
