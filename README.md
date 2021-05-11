@@ -42,12 +42,12 @@ Pour plus d'informations sur les commandes, rendez-vous sur mon rapport de proje
 
 ## <a name="resultat"> Résulat de mon BOT Discord
 
-![alt text](https://github.com/oliviagog/BOT-Discord/blob/main/image/ping.PNG)
-![alt text](https://github.com/oliviagog/BOT-Discord/blob/main/image/pileouface.PNG)
-![alt text](https://github.com/oliviagog/BOT-Discord/blob/main/image/aleatoire.PNG)
-![alt text](https://github.com/oliviagog/BOT-Discord/blob/main/image/messageautomatic.PNG)
-![alt text](https://github.com/oliviagog/BOT-Discord/blob/main/image/calcul.PNG)
-![alt text](https://github.com/oliviagog/BOT-Discord/blob/main/image/help.PNG)
+![alt text](https://github.com/oliviagog/BOT-Discord/blob/main/image/ping.PNG)</br>
+![alt text](https://github.com/oliviagog/BOT-Discord/blob/main/image/pileouface.PNG)</br>
+![alt text](https://github.com/oliviagog/BOT-Discord/blob/main/image/aleatoire.PNG)</br>
+![alt text](https://github.com/oliviagog/BOT-Discord/blob/main/image/messageautomatic.PNG)</br>
+![alt text](https://github.com/oliviagog/BOT-Discord/blob/main/image/calcul.PNG)</br>
+![alt text](https://github.com/oliviagog/BOT-Discord/blob/main/image/help.PNG)</br>
 
 ### <a name="installation"> Installation
 
