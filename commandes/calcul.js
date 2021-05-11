@@ -7,8 +7,11 @@ const {calculator} = require('./function');
 
         //Des conditions afin de faire les calculs
         if(!args[0]) return message.channel.send('Il faut rentrer le premier nombre');
-        if(!args[1]) return message.channel.send('Il faut mettre le type d operation (+ - / *)');
+        if(!args[1]) return message.channel.send('Il faut mettre le type d operation (+ - / *) \n ⚠️Il faut mettre un espace entre chaque valeur.');
         if (!args[2]) return message.channel.send('Il faut rentrer le deuxieme nombre');
+        if (isNaN(args[0])) return message.channel.send('Il faut obligatoirement un nombre');
+        if (isNaN(args[2])) return message.channel.send('Il faut obligatoirement un nombre');
+        
         //Je fais des console.log afin de voir ce qui rentre comme valeurs
         console.log(args[0]);
         console.log(args[1]);
