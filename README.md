@@ -39,7 +39,13 @@ Pour utiliser ces commandes, il faut utiliser le prefix `!`</br>
 - [Visual Studio](https://code.visualstudio.com/)</br>
 
 ## <a name="resultat"> Résulat de mon BOT Discord
-
+  
+   ![alt text](https://github.com/oliviagog/BOT-Discord/blob/main/image/ping.PNG) 
+   ![alt text](https://github.com/oliviagog/BOT-Discord/blob/main/image/pileouface.PNG)
+   ![alt text](https://github.com/oliviagog/BOT-Discord/blob/main/image/aleatoire.PNG)
+   ![alt text](https://github.com/oliviagog/BOT-Discord/blob/main/image/messageautomatic.PNG)
+   ![alt text](https://github.com/oliviagog/BOT-Discord/blob/main/image/calcul.PNG)
+   ![alt text]()
 ### <a name="installation"> Installation
 
 ```bash
@@ -49,7 +55,7 @@ git clone https://github.com/oliviagog/BOT-Discord
 # Entrer dans le dossier
 cd BOT-Discord/
 
-# Installer les dependences
+# Install les dependences
 npm install
 ```
 
