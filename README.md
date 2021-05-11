@@ -6,22 +6,22 @@ Création d'un BOT sur Discord.
 
 - [Profil](#profil)
 - [Présentation du projet](#projet)
-- [Outils requis](#tools)
-- [Avant de commencer](#gettingStarted)
+- [Outils](#outils)
+- [Résulat de mon BOT Discord](#resultat)
 - [Installation ](#installation)
 - [Configuration ](#configuration)
-- [Pour lancer l'application](#starting)
-- [Rapport](#rapport)
+- [Lancement de l'application](#lancement)
+- [Rapport du projet](#rapport)
 
 # <a name="profil"> Profil
 
-- "GOGUILLON Olivia"
+- "GOGUILLON Olivia"</br>
   Réalisation de ce projet lors de ma Licence Professionnelle.
 
 ## <a name="projet"> Présentation du projet
 
 L'objectif du projet est de se connecter à une API et executer des requêtes.</br>
-J'ai choisi l'API Discord pour réaliser un BOT.</br></br>
+J'ai choisi l'API Discord pour réaliser un BOT.</br>
 
 Ce BOT a plusieurs fonctionnalités, plusieurs commandes.</br>
 **-1️⃣**: `ping`,</br>
@@ -32,43 +32,39 @@ Ce BOT a plusieurs fonctionnalités, plusieurs commandes.</br>
 
 Pour utiliser ces commandes, il faut utiliser le prefix `!`</br>
 
-## <a name="tools"> Outils requis
+## <a name="outils"> Mes outils
 
-- [Node](https://nodejs.org/en/)
-- [YARN](https://www.yarnpkg.com/)
+- [Node](https://nodejs.org/en/)</br>
+- [Discord](https://discord.com/)</br>
+- [Visual Studio](https://code.visualstudio.com/)</br>
 
-## <a name="gettingStarted"> Avant de commencer
-
-Tout d'abord, assurez-vous que tous les outils requis soient installés sur votre machine locale, puis suivez les étapes.
+## <a name="resultat"> Résulat de mon BOT Discord
 
 ### <a name="installation"> Installation
 
 ```bash
-# Clone the repository
-git clone https://github.com/ccaruyer/Erub
+# Il faut cloner mon projet
+git clone https://github.com/oliviagog/BOT-Discord
 
-# Enter into the directory
-cd Erub/
+# Entrer dans le dossier
+cd BOT-Discord/
 
-# Install the dependencies
-yarn install
+# Install les dependences
+npm install
 ```
 
 ### <a name="configuration"> Configuration
 
-Après avoir cloné le projet et installé toutes les dépendances, vous devez ajouter dans le fichier config.json:
+Ensuite, vous devez ajouter dans le fichier config.json:
 
 - votre jeton d'API Discord
-- le préfix par défaut est "?" mais vous pouvez le changer si besoin
-- votre id
-- l'id de votre channel d'accueil, mettre vide si vous ne voulez pas l'utiliser
 
-### <a name="starting"> Pour lancer l'application
+### <a name="lancement"> Lancement de l'application
 
 ```bash
-node main
+node index.js
 ```
 
-## <a name="rapport"> Rapport
+## <a name="rapport"> Rapport du projet
 
-Vous pouvez retrouver le rapport de ce projet [ici](https://drive.google.com/file/d/1GdIxuQQ62irVgNe16ZMV642FnGdDtApT/view?usp=sharing)
+Retrouver le rapport de ce projet fait en LATEX [rapportprojet](https://www.overleaf.com/project/60896a7446f3c2c234e2b5e8)
