@@ -6,6 +6,8 @@ const {pileouface} = require('./commandes/pileouface');
 const { aleatoire } = require('./commandes/aleatoire');
 const{calcul} = require('./commandes/calcul');
 const{help} = require('./commandes/help');
+const {meteo} = require('./commandes/meteo');
+
 
 //Prefix a mettre avant une commande
 const prefix = '!';
@@ -53,7 +55,7 @@ client.on('message', message => {
         }
 
         //Si l utilisateur utilise la commande calcul
-        if(command == "addition"){
+        if(command == "calcul"){
             calcul(message, args);
         }
 
@@ -61,6 +63,13 @@ client.on('message', message => {
         if(command == "help"){
             help(message); 
         }
+
+        //Si l utilisateur utilise la commande help
+        if(command == "dog"){
+            request.get{'http://thecatapi.com/api/images/get?format=src&type=gif'}; 
+        }
+
+        
    
 
 
