@@ -49,7 +49,7 @@ git clone https://github.com/oliviagog/BOT-Discord
 # Entrer dans le dossier
 cd BOT-Discord/
 
-# Install les dependences
+# Installer les dependences
 npm install
 ```
 
