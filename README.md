@@ -32,6 +32,8 @@ Ce BOT a plusieurs fonctionnalités, plusieurs commandes.</br>
 
 Pour utiliser ces commandes, il faut utiliser le prefix `!`</br>
 
+Pour plus d'informations sur les commandes, rendez-vous sur mon rapport de projet.
+
 ## <a name="outils"> Mes outils
 
 - [Node](https://nodejs.org/en/)</br>
@@ -39,13 +41,14 @@ Pour utiliser ces commandes, il faut utiliser le prefix `!`</br>
 - [Visual Studio](https://code.visualstudio.com/)</br>
 
 ## <a name="resultat"> Résulat de mon BOT Discord
-  
-   ![alt text](https://github.com/oliviagog/BOT-Discord/blob/main/image/ping.PNG) 
-   ![alt text](https://github.com/oliviagog/BOT-Discord/blob/main/image/pileouface.PNG)
-   ![alt text](https://github.com/oliviagog/BOT-Discord/blob/main/image/aleatoire.PNG)
-   ![alt text](https://github.com/oliviagog/BOT-Discord/blob/main/image/messageautomatic.PNG)
-   ![alt text](https://github.com/oliviagog/BOT-Discord/blob/main/image/calcul.PNG)
-   ![alt text]()
+
+![alt text](https://github.com/oliviagog/BOT-Discord/blob/main/image/ping.PNG)
+![alt text](https://github.com/oliviagog/BOT-Discord/blob/main/image/pileouface.PNG)
+![alt text](https://github.com/oliviagog/BOT-Discord/blob/main/image/aleatoire.PNG)
+![alt text](https://github.com/oliviagog/BOT-Discord/blob/main/image/messageautomatic.PNG)
+![alt text](https://github.com/oliviagog/BOT-Discord/blob/main/image/calcul.PNG)
+![alt text]()
+
 ### <a name="installation"> Installation
 
 ```bash
